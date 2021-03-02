@@ -1,0 +1,23 @@
+body {
+text-align: center;
+background-image: url(imagens/imagem.jpg);
+background-size: cover; 
+}
+h1 {
+	font-size: 60px;
+	padding-top: 20px;
+	text-shadow: 2px 2px 2px orange;
+	margin-bottom: 10px;
+	color: rgb(20,20,20);
+}
+p {
+	font-size: 30px;
+	font-weight: bold;
+	text-shadow: 4px 4px 4px grey;
+	margin-bottom: 150px;
+	margin-top: 80px;
+	padding-bottom: 20px;
+}
+.lista {
+	font-size: 30px;
+}
